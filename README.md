@@ -3,7 +3,7 @@
 
 ## About me
 
-I am a student at the _LSE_ studying < sociology >.
+I am a student at the _LSE_ studying sociology.
 
 I will use this GitHub profile to showcase my data science skills.
 
@@ -11,5 +11,5 @@ I will use this GitHub profile to showcase my data science skills.
 
 - Python 
 - Data Science
-- <scolling on social mediea >
+- scolling on social mediea
   
